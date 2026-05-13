@@ -1,6 +1,6 @@
 cask "smoovmux" do
-  version "0.0.5"
-  sha256 "745d15e540639d8bbb0f9b970a0192c2e67eee1251889b38aa44178f16a048f7"
+  version "0.0.6"
+  sha256 "f4f3a0bb0d6f4bed7bbac80b0a7fbd8413151ca3925e9a5b127a8e2897a342d8"
 
   url "https://github.com/boozedog/smoovmux/releases/download/v#{version}/smoovmux-#{version}-macos-universal.zip"
   name "smoovmux"
